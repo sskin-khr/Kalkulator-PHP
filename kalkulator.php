@@ -26,7 +26,7 @@ if ($nilai >= 85) {
 if ($nilai >= 55 && $nilai <= 100) {
     $status = "Lulus";
 } else {
-    $status = "Tidak Lulus"
+    $status = "Tidak Lulus";
 }
 
 echo "\nHasil Evaluasi:\n";
